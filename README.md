@@ -8,34 +8,24 @@
 
 ## 🎓 Sobre mim
 
-Sou estudante de **Sistemas de Informação** pela **UNIPAR**. Concluí recentemente o **2º período** da graduação e estou ingressando no **3º período**, atualmente no **2º ano de um curso de 4 anos**.
-
+Sou um estudante de Sistemas de informação, com foco no aprendizado Full stack. tenho a curiosidade cada vez mais de resolver problemas usando a programação, sempre em busca de mais aprendizado.
 
 * 🏫 **Curso:** Sistemas de Informação – UNIPAR
 * 📚 **Período:** 3º período (2º ano)
 * 💡 **Interesses:** Tecnologia, programação e inovação
 
----
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoggame4&show_icons=true&theme=dark)
 
 
-## 🛠️ Conhecimentos e habilidades
+## 🛠️ Habilidades
 
-* Montagem e manutenção básica de computadores
+* Montagem e manutenção de computadores
 * Conceitos fundamentais de hardware e software
 * Uso de sistemas operacionais (Windows / Linux)
-* Organização e boas práticas em estudos e projetos
-
-> 📌 *Essas habilidades estão em constante evolução conforme avanço na faculdade.*
-
----
-
-## 📚 Atualmente estudando
-
-* Fundamentos de Sistemas de Informação
-* Programação e lógica computacional
-* Estrutura e funcionamento de sistemas
+* Linguagens: javascript
+* Banco de dados: mysql
+* Ferramentas de Desenvolvimento: VsCode, Ambiente de trabalho MySQL
 
 ---
 
@@ -50,6 +40,6 @@ Sou estudante de **Sistemas de Informação** pela **UNIPAR**. Concluí recentem
 
 ## 📂 Projetos
 
-🚧 Em construção — em breve adicionarei projetos acadêmicos e pessoais aqui.
+
 
 
