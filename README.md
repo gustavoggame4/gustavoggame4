@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoggame4)](https://github.com/gustavoggame4/github-readme-stats)
 <!--
 **gustavoggame4/gustavoggame4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
